@@ -36,6 +36,7 @@ const https = require("https");
 ReactDOM.render(
   <div>
   {/* <Sexy/> */}
+  <h1>Sexy AF</h1>
   <App/>
   </div>,
   document.getElementById('root')
